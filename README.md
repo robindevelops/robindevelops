@@ -1,5 +1,5 @@
-# 💫 About Me:
-- Computer Science Stdent
+# 💫 Hi Coders:
+- Computer Science Student
 - Currently Learning Flutter
 
 # 💻 Tech Stack:
