@@ -17,8 +17,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=robindevelops&theme=radical&hide_border=false)<br/>
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=robindevelops&icon=5&color=12)](https://visitcount.itsvg.in)
