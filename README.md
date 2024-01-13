@@ -1,6 +1,6 @@
 # 💫 Hi Coders:
-📕 Cs Student
-- Currently Learning Flutter
+- Cs Student
+- Talk About Flutter
 
 
 
