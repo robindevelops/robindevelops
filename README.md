@@ -1,6 +1,8 @@
 # 💫 Hi Coders:
 
-Hi My Name is Alyan i Have a 1 year + of experience in developing mobile Apps ui for both android and ios
+Hi My Name is Alyan i Have  1 year + of experience in developing Mobile Apps ui for both Android and Ios 
+1- I Am Currently Learing Api's ❤️
+2- Next I will learn Node JS for Backend development 💕
 
 
 
