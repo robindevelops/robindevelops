@@ -1,6 +1,8 @@
+# 💫 Hi Coders:
 
-Hi Coders My Name is Alyan And I am a Computer Science Student and i Have a one Year plus of experice In developing In Mobile Apps Ui for ios and Android
- 
+Hi My Name is Alyan i Have a 1 year + of experice in dveloping mobile Apps ui for both android and ios
+
+
 
 
 
