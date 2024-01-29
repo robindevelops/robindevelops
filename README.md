@@ -1,6 +1,6 @@
-# 💫 Hi Coders:
-- Cs Student
-- Talk About Flutter
+
+Hi Coders My Name is Alyan And I am a Computer Science Student and i Have a one Year plus of experice In developing In Mobile Apps Ui for ios and Android
+ 
 
 
 
