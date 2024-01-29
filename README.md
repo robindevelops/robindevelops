@@ -1,6 +1,6 @@
 # 💫 Hi Coders:
 
-Hi My Name is Alyan i Have a 1 year + of experice in dveloping mobile Apps ui for both android and ios
+Hi My Name is Alyan i Have a 1 year + of experience in dveloping mobile Apps ui for both android and ios
 
 
 
