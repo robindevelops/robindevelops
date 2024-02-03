@@ -2,9 +2,9 @@
 
 Hi My Name is Alyan i Have  1 year + of experience in developing Mobile Apps ui for both Android and Ios 
 
-1- I Am Currently Learing Api's ❤️
+1- I Am Currently Learing Node Js to Make Apis and interect with sever side applications ❤️
 
-2- Next I will learn Node JS for Backend development 💕
+
 
 
 
