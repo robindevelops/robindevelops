@@ -1,10 +1,14 @@
 💫 Hi Coders!
 
-I'm Alyan, a passionate mobile app developer.
-I have 1+ year of experience in designing beautiful and intuitive UI for both Android and iOS platforms.
-I specialize in crafting engaging user experiences using Flutter.
-I've mastered the art of UI/UX design.
-Currently, I'm expanding my skills by learning Node.js to enhance my backend development expertise.
+- I'm Alyan, a passionate mobile app developer.
+
+- I have Experience in designing beautiful and intuitive UI for both Android and iOS platforms.
+
+- I specialize in crafting engaging user experiences using Flutter.
+
+- I've mastered the art of UI/UX design.
+
+- Currently, I'm expanding my skills by learning Node.js to enhance my backend development expertise.
 
 
 
