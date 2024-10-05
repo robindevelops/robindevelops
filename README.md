@@ -1,17 +1,22 @@
-<h1>💫 Hi Coders</h1>
+<h1 align="center">💫 Hi Coders, I'm Alyan 👨‍💻</h1>
 
+<p align="center">
+  <em>A passionate mobile app developer specializing in Flutter</em>
+</p>
 
-- I'm Alyan, a passionate mobile app developer.
+<ul>
+  <li>💻 I design <strong>beautiful and intuitive user interfaces</strong> for both Android and iOS platforms.</li>
+  
+  <li>📱 I excel at crafting <strong>engaging user experiences</strong> using the power of <strong>Flutter</strong>.</li>
+  
+  <li>🎨 I’ve mastered the art of <strong>UI/UX design</strong>, blending functionality with aesthetics.</li>
+  
+  <li>🚀 Currently, I’m expanding my expertise by diving into <strong>Node.js</strong> to bolster my backend development skills.</li>
+</ul>
 
-- I have Experience in designing beautiful and intuitive UI for both Android and iOS platforms.
-
-- I specialize in crafting engaging user experiences using Flutter.
-
-- I've mastered the art of UI/UX design.
-
-- Currently, I'm expanding my skills by learning Node.js to enhance my backend development expertise.
-
-
+<p align="center"> 
+  <em>Let's build something amazing together! </em><br/>
+</p>
 
 
 
