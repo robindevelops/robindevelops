@@ -3,7 +3,10 @@
 
 
 🧡 Aspiring Full Stack Developer  
+
 📚 Computer Science Student
+
+
 💡 Always eager to learn and improve my coding skills  
 
 
