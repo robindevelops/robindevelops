@@ -2,14 +2,8 @@
 
 
 
-🧡 Aspiring Full Stack Developer  
-
-📚 Computer Science Student
-
-
-💡 Always eager to learn and improve my coding skills  
-
-
+🧡 A Beginner Software Developer.  
+📚 Computer Science Student.  
 
 <h1 align="center">💻 Tech Stack</h1>
 
