@@ -2,8 +2,9 @@
 
 
 
-🧡 A Beginner Software Developer.  
-📚 Computer Science Student.  
+ 💀 A Beginner Software Developer.  
+ 📚 Cs Student.
+ ❤️ Junior Flutter Developer.
 
 <h1 align="center">💻 Tech Stack</h1>
 
