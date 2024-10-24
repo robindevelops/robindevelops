@@ -3,7 +3,7 @@
 
 
  💀 A Beginner Software Developer.  
- 📚 Cs Student.
+ 📚 Cs Student.  
  ❤️ Junior Flutter Developer.
 
 <h1 align="center">💻 Tech Stack</h1>
