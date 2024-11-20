@@ -2,7 +2,7 @@
 
 
 
- 💀 A Beginner Software Developer.  
+
  📚 Cs Student.  
  ❤️ Junior Flutter Developer.
 
