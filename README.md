@@ -2,7 +2,6 @@
 
 - 👨‍💻 Associate Flutter developer
 - 📚 Computer Science Student.
-- 📫 Reach me at: alyanshahid@gmail.com
 
 
 ---
