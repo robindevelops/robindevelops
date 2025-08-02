@@ -1,7 +1,7 @@
 <h1 align="center">My name is Alyan Shahid, and I'm ...</h1>
 
 - 👨‍💻 Associate Flutter developer
-- 🎯 Cs Student
+- 📚 Computer Science Student.
 - 📫 Reach me at: alyanshahid@gmail.com
 
 
