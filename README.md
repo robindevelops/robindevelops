@@ -9,10 +9,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyanshahid&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alyanshahid&theme=tokyonight" width="45%" />
 </p>
+
 
 ---
 
