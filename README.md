@@ -1,4 +1,4 @@
-<h3 align="center">My name is Alyan Shahid, and I'm ...</h3>
+<h3>My name is Alyan Shahid, and I'm ...</h3>
 
 - 👨‍💻 Associate Flutter developer
 - 📚 Computer Science Student.
