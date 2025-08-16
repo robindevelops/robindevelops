@@ -1,6 +1,6 @@
 <h2>My name is Alyan Shahid, and I'm ...</h2>
 
-- 👨‍💻 Associate Flutter developer
+- 👨‍💻 Full Stack developer
 - 📚 Computer Science Student.
 
 
